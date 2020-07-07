@@ -2,5 +2,5 @@ FROM nginx:latest
 
 # Install Nginx.
 RUN apt-get update 
-CMD [“echo”,”Image create”] 
+CMD [“echo”,”Image created”] 
 
